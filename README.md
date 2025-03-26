@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/codestudiohq/laravel-totem/blob/8.0/resources/assets/img/totem.png?raw=true" alt="Laravel Totem"/>
+  <img src="https://github.com/harshaank/laravel-totem/blob/8.0/resources/assets/img/totem.png?raw=true" alt="Laravel Totem"/>
 </p>
 <p align="center">
-<img src="https://github.com/codestudiohq/laravel-totem/workflows/Laravel/badge.svg?branch=8.0" alt="Build Status">
+<img src="https://github.com/harshaank/laravel-totem/workflows/Laravel/badge.svg?branch=8.0" alt="Build Status">
 <a href="https://packagist.org/packages/studio/laravel-totem"><img src="https://poser.pugx.org/studio/laravel-totem/license.svg" alt="License"></a>
 </p>
 
@@ -167,19 +167,19 @@ php artisan schedule:list
 
 ##### Task List
 
-<img src="https://github.com/codestudiohq/laravel-totem/blob/1.0/public/img/screenshots/tasks.png?raw=true" alt="Task List"/>
+<img src="https://github.com/harshaank/laravel-totem/blob/1.0/public/img/screenshots/tasks.png?raw=true" alt="Task List"/>
 
 ##### Task Details
 
-<img src="https://github.com/codestudiohq/laravel-totem/blob/1.0/public/img/screenshots/task-details.png?raw=true" alt="Task List"/>
+<img src="https://github.com/harshaank/laravel-totem/blob/1.0/public/img/screenshots/task-details.png?raw=true" alt="Task List"/>
 
 ##### Edit Task
 
-<img src="https://github.com/codestudiohq/laravel-totem/blob/1.0/public/img/screenshots/edit-task.png?raw=true" alt="Task List"/>
+<img src="https://github.com/harshaank/laravel-totem/blob/1.0/public/img/screenshots/edit-task.png?raw=true" alt="Task List"/>
 
 ##### Artisan Command to view scheduled tasks
 
-<img src="https://github.com/codestudiohq/laravel-totem/blob/1.0/public/img/screenshots/artisan.png?raw=true" alt="Task List"/>
+<img src="https://github.com/harshaank/laravel-totem/blob/1.0/public/img/screenshots/artisan.png?raw=true" alt="Task List"/>
 
 ## Changelog
 
@@ -187,8 +187,7 @@ Important versions listed below. Refer to the [Changelog](CHANGELOG.md) for a fu
 
 ## Credits
 
-- [Roshan Gautam](https://twitter.com/@roshangautam)
-- [OSS Contributors](https://github.com/codestudiohq/laravel-totem/graphs/contributors)
+- [OSS Contributors](https://github.com/harshaank/laravel-totem/graphs/contributors)
 
 Bug reports, feature requests, and pull requests can be submitted by following our [Contribution Guide](CONTRIBUTING.md).
 
